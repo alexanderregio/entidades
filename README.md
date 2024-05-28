@@ -84,5 +84,3 @@ public sealed class Filme
 ### Conclusões
 
 Este exemplo demonstra como utilizar Entidades em DDD com C#. A classe `Entity` fornece uma base sólida para a criação de Entidades em seu domínio, garantindo identidade única e persistência. As Entidades são elementos-chave em DDD, pois representam os objetos mais importantes do seu domínio e são essenciais para modelar seu negócio de forma precisa e eficiente.
-
-**Importante:** Este é apenas um exemplo básico. Em projetos reais, as Entidades podem ser muito mais complexas, com comportamentos específicos e regras de negócio associadas.
